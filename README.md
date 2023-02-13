@@ -91,7 +91,7 @@ You will see the build errors and lint warnings in the console.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Live Demo]()
+[Live Demo] coming soon...
 
 
 <!-- AUTHORS -->
@@ -125,4 +125,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./license) licensed
+This project is [MIT](./MIT) licensed
