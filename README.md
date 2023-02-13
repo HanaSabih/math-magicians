@@ -88,6 +88,16 @@ Open http://localhost:3000/ to view it in the browser.
 
 The page will automatically reload if you make changes to the code.
 You will see the build errors and lint warnings in the console.
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+> Describe between 1-3 key features of the application.
+- **[navbar]**
+- **[home page]**
+- **[quotes]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
