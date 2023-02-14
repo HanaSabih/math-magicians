@@ -26,6 +26,10 @@ code {
     monospace;
 }
 
+.resultContainer {
+  height: 2.5rem;
+}
+
 button {
   width: 100%;
   background-color: #e0e0e0;
