@@ -135,4 +135,6 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License <a name="license"></a>
 
+
 This project is [MIT](https://github.com/HanaSabih/math-magicians/blob/project-components/MIT.md) licensed
+
