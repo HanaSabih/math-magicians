@@ -2,7 +2,7 @@ import { Container } from 'react-bootstrap';
 
 const Home = () => (
   <Container className="  mt-5 homeContainer ">
-    <h1 className="  mb-5  ">Welcome to Math magicians!</h1>
+    <h1 className="  mb-5  ">Welcome to our page!</h1>
 
     <p>
       This is a simple calculator with memory functions similar to a small handheld calculator.
