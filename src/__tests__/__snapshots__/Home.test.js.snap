@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="  mt-5 homeContainer  container"
+>
+  <h1
+    className="  mb-5  homeTitle"
+  >
+    Welcome to our page!
+  </h1>
+  <p>
+    This is a simple calculator with memory functions similar to a small handheld calculator. Use this basic calculator online for math with addition, subtraction, division and multiplication.
+  </p>
+  <p>
+    If it's your first time using a calculator, all the buttons and options can be a bit scary. But whether you're using a standard calculator or scientific calculator, the basics are pretty much the same. Once you learn what the buttons do and how to use them for different calculations, you'll be more than comfortable using your calculator whenever you need it—inside or outside of school!
+  </p>
+  <p>
+    <strong>
+      Add numbers
+    </strong>
+     
+    with the "+" key. Hit the "+" button between any 2 numbers to add them. For example, to add 5 to 10, press "5," "+," and then "10."
+  </p>
+  <p>
+    <strong>
+      Subtract numbers
+    </strong>
+     
+    with the "-" key. Press the "-" button between any 2 numbers to subtract the second from the first. For example, hit "7," "-," and then "5" to subtract 5 from 7 and hit "=" to get an answer of "2."
+  </p>
+  <p>
+    <strong>
+      Divide numbers
+    </strong>
+     
+    "" or turn fractions into decimals with the "÷" or "/" key. For example, to divide 2 by 1, press "2," "÷" and "1" and then "=." To change the fraction 4/5 to a decimal, press "4," "/," "5," and then "=."
+  </p>
+  <p>
+    <strong>
+      Multiply numbers
+    </strong>
+     
+    using the "x" or "*" key. For example, to multiply 6 by 5, press "6," "x," "5," and then "=." The final answer will read "30."
+  </p>
+</div>
+`;

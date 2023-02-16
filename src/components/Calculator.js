@@ -23,13 +23,13 @@ const Calculator = () => {
     <Container className=" mx-auto homeCalc">
       <Row>
         <Col xs={12} md={4}>
-          <div className=" mt-5 "><h1>Lets do some Math!</h1></div>
+          <div className=" mt-5 calcTitle"><h1>Let&apos;s do some Math!</h1></div>
         </Col>
         <Col xs={12} md={8}>
           <Container className=" mt-5  pb-3 ">
 
             <Stack direction="horizontal" className="mx-auto bg-secondary resultContainer fs-1">
-              <div className="text-end w-100 bg-secondary text-white px-3">
+              <div className="text-end w-100 bg-secondary text-white px-3 resultCont ">
                 <span>{total}</span>
                 <span>{operation}</span>
                 <span>{next}</span>
