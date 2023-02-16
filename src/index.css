@@ -27,10 +27,11 @@ code {
 }
 
 .resultContainer {
-  height: 2.5rem;
+  height: 6rem;
 }
 
 button {
+  height: 6rem;
   width: 100%;
   background-color: #e0e0e0;
   border-radius: 0;
@@ -39,4 +40,15 @@ button {
 
 .orangeBtn {
   background-color: #f5913e;
+}
+
+.navbar-toggler {
+  width: 15vh;
+  height: 3rem;
+}
+.homeContainer{
+  width: 80vh;
+}
+.homeCalc{
+  width:85%;
 }
