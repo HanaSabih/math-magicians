@@ -23,7 +23,7 @@ const Calculator = () => {
     <Container className=" mx-auto homeCalc">
       <Row>
         <Col xs={12} md={4}>
-          <div className=" mt-5 "><h1>Lets do some Math!</h1></div>
+          <div className=" mt-5 "><h1>Let&apos;s do some Math!</h1></div>
         </Col>
         <Col xs={12} md={8}>
           <Container className=" mt-5  pb-3 ">
