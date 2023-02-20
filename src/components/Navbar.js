@@ -22,7 +22,6 @@ const Navbars = () => (
     </Navbar>
     <Outlet />
   </>
- 
 );
 
 export default Navbars;
