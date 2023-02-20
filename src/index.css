@@ -46,9 +46,11 @@ button {
   width: 15vh;
   height: 3rem;
 }
-.homeContainer{
+
+.homeContainer {
   width: 80vh;
 }
-.homeCalc{
-  width:85%;
+
+.homeCalc {
+  width: 85%;
 }
