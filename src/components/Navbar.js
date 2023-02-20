@@ -22,23 +22,7 @@ const Navbars = () => (
     </Navbar>
     <Outlet />
   </>
-  //   <>
-  //     <nav>
-  //       <ul>
-  //         <li>
-  //           <Link to="/">Home</Link>
-  //         </li>
-  //         <li>
-  //           <Link to="/Calculator">Calculator</Link>
-  //         </li>
-  //         <li>
-  //           <Link to="/Quote">Quote</Link>
-  //         </li>
-  //       </ul>
-  //     </nav>
-
-//     <Outlet />
-//   </>
+ 
 );
 
 export default Navbars;
